@@ -2,7 +2,7 @@
 name = "Django-Auth"
 version = "0.1.0"
 description = "Django feat Auth"
-authors = ["<andrefilipisilveiradesousa@gmail.com>"]
+authors = ["André Filipi <afsds@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
