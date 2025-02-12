@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Bookstore"
+name = "bookstore"
 version = "0.1.0"
 description = "Django feat Auth"
 authors = ["André Filipi <afsds@gmail.com>"]
